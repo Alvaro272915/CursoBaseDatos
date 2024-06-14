@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "666ba255098a01402d434b9a"
+  },
+  "cerveza": "lagers",
+  "cantidadvenida": 20,
+  "precioVenta": 268
+},
+{
+  "_id": {
+    "$oid": "666ba255098a01402d434b9b"
+  },
+  "cerveza": "lagers",
+  "cantidadvenida": 10,
+  "precioVenta": 134
+},
+{
+  "_id": {
+    "$oid": "666ba255098a01402d434b9c"
+  },
+  "cerveza": "Ales",
+  "cantidadvenida": 15,
+  "precioVenta": 187.5
+},
+{
+  "_id": {
+    "$oid": "666ba255098a01402d434b9d"
+  },
+  "cerveza": "Ales",
+  "cantidadvenida": 35,
+  "precioVenta": 437.5
+},
+{
+  "_id": {
+    "$oid": "666ba255098a01402d434b9e"
+  },
+  "cerveza": "Ales",
+  "cantidadvenida": 50,
+  "precioVenta": 625
+},
+{
+  "_id": {
+    "$oid": "666ba255098a01402d434b9f"
+  },
+  "cerveza": "Aguila",
+  "cantidadvenida": 20,
+  "precioVenta": 240
+},
+{
+  "_id": {
+    "$oid": "666ba255098a01402d434ba0"
+  },
+  "cerveza": "Aguila",
+  "cantidadvenida": 10,
+  "precioVenta": 120
+}]

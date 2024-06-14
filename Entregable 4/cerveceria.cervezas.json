@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "666ba592098a01402d434bad"
+  },
+  "cerveza": "lagers",
+  "precioVenta": 268,
+  "materiaprima": [
+    {
+      "materia": "agua",
+      "cantidad": 20
+    },
+    {
+      "materia": "malta",
+      "cantidad": 50
+    },
+    {
+      "materia": "cevada",
+      "cantidad": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "666ba592098a01402d434bae"
+  },
+  "cerveza": "Aguila",
+  "precioVenta": 500,
+  "materiaprima": [
+    {
+      "materia": "agua",
+      "cantidad": 10
+    },
+    {
+      "materia": "malta",
+      "cantidad": 30
+    },
+    {
+      "materia": "cevada",
+      "cantidad": 80
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "666ba592098a01402d434baf"
+  },
+  "cerveza": "Ales",
+  "precioVenta": 250,
+  "materiaprima": [
+    {
+      "materia": "agua",
+      "cantidad": 45
+    },
+    {
+      "materia": "malta",
+      "cantidad": 25
+    },
+    {
+      "materia": "cevada",
+      "cantidad": 10
+    },
+    {
+      "materia": "levadura",
+      "cantidad": 10
+    }
+  ]
+}]
